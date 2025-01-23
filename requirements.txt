@@ -1,0 +1,6 @@
+nltk
+python-dotenv
+requests
+wikipedia
+discord
+asyncio
